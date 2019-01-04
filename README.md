@@ -1,3 +1,4 @@
-# SimpleBot
-Working bot with only the basics
+# Bot
+Tweeting bot with only the basics functionalities working. 
+
 
